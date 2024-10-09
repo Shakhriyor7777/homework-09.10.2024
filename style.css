@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+span{
+    color: white;
+    background-color: #311313;
+    margin: 22px 432px 55px 381px;
+    padding: 24px 17px 23px 24px;
+}
+
+body{
+    background-color: #2A5D5A;
+    
+}
+
+.div1{
+    background-color: black;
+    border: 10px  solid #FF0606 ;
+    margin-top: 55px;
+}
+
+.div2{
+    background-color: #1FE8B7;
+    margin: 45px 52px 30px 52px;
+    padding: 54px 39px 54px 40px;
+}
+
+p{
+font-size: 44px;
+font-weight: 700;
+padding: 24px 17px 23px 24px;
+}
+
+
+.text1{
+font-size: 24px;
+font-weight: 700;
+}
